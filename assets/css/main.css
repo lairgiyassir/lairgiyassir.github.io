@@ -2393,6 +2393,8 @@ input, select, textarea {
 
 			.image.fit img {
 				width: 100%;
+				margin-left: auto;
+				margin-right: auto;
 			}
 
 /* List */
